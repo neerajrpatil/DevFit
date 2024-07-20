@@ -20,3 +20,6 @@ For ear health, there is a 60-60 rule:
 > Only turn your device volume up to 60% and listen for no more than 60 minutes per day
 
 The app checks if you are using earphones for longer than 60 minutes and reminds you to control your earphone usage if it is becoming unhealthy.
+
+
+![image](https://github.com/user-attachments/assets/6c2b4fcd-22c2-418e-b42d-4d0d5e4925ad)
